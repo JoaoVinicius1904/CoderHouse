@@ -8,7 +8,7 @@ O pipeline de dados é projetado para integrar dados de várias APIs e prepará-
 
 - **[API de Bancos do Brasil](https://brasilapi.com.br/api/banks/v1)**: Fornece informações sobre bancos registrados no Brasil.
 - **[API de Participantes de Pix](https://brasilapi.com.br/api/pix/v1/participants)**: Fornece informações sobre participantes do sistema de pagamentos Pix.
-- **[API de Taxas](https://brasilapi.com.br/api/taxas/v1)**: Fornece informações sobre taxas e juros de diferentes tipos de operações financeiras.
+- **[API de  Corretoras](https://brasilapi.com.br/api/cvm/corretoras/v1)**: Fornece informações sobre corretoras financeiras.
 
 ## Funcionalidades
 
